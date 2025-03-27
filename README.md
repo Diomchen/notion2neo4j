@@ -20,4 +20,5 @@
 (:Article) -[:TAGGED_WITH]-> (:Tag)
 (:Article) -[:REFERENCES]-> (:Article)
 ```
-
+## 效果
+![](https://fastly.jsdelivr.net/gh/Diomchen/PiCor/20250327180500.png)
