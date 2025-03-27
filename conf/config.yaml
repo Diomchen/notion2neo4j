@@ -1,0 +1,6 @@
+db:
+  NEO4J_URI: neo4j+s://b444bcea.databases.neo4j.io
+  NEO4J_USERNAME: neo4j
+  NEO4J_PASSWORD: E_tHx5EDjCf30zQWxUyr9_x1X9IjAOKkatb1JnoCfhU
+  AURA_INSTANCEID: b444bcea
+  AURA_INSTANCENAME: Free instance
